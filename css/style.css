@@ -1,0 +1,302 @@
+*{
+	margin:0px;
+}
+
+/*Header area Start*/
+
+.header-area{
+	background-color:#24242E;
+	text-align:center;
+}
+
+.header-area img:first-child{
+	width:100px;
+	margin:70px 0px 100px;
+}
+
+.header-area h2{
+	color:#ffffff;
+	font-size:65px;
+	text-transform:uppercase;
+	margin-bottom:20px;
+}
+
+.header-area p{
+	color:#ffffff;
+	font-size:18px;
+}
+
+.header-area img:last-child{
+	width:30px;
+	margin-top:150px;
+	padding-bottom:30px;
+}
+
+/*Header area End*/
+
+.what-i-do-area{
+	background-image:url("../img/background.png");
+}
+
+.what-i-do-area .paragraph-area{
+	width:60%;
+	margin:auto;
+	padding:50px 0px;
+	text-align:center;
+	font-size:20px;
+}
+
+.what-i-do-area .paragraph-area p:last-child{
+	margin:30px 0px;
+}
+
+.what-i-do-area .paragraph-area h2{
+	margin:20px;
+	font-size:50px;
+	text-transform:uppercase;
+}
+
+/*==============*/
+
+.table-area{
+	width:60%;
+	margin:auto;
+	padding-bottom:70px;
+}
+
+.table-area .tamplate-area{
+	width:30%;
+	float:left;
+	line-height:20px;
+}
+
+.table-area .brand-area{
+	width:30%;
+	overflow:hidden;
+	float:left;
+	line-height:20px;
+}
+
+.table-area .dreams-area{
+	width:30%;
+	overflow:hidden;
+	line-height:20px;
+}
+
+/*=============*/
+
+.work-area{
+	background-color:#24242E;
+}
+
+.my-work h2{
+	color:#ffffff;
+	text-transform:uppercase;
+	font-size:50px;
+}
+
+.nav-area{
+	width:46%;
+	margin:auto;
+}
+
+.nav-area ul{
+	display:flex;
+	padding:0px 0px 30px;
+}
+
+.nav-area ul li a{
+	margin:0px 20px;
+	text-decoration:none;
+	color:#ffffff;
+}
+
+.nav-area ul li{
+	list-style:none;
+}
+
+.work-area{
+	text-align:center;
+}
+
+.my-work {
+    padding: 70px 0px 30px;
+}
+
+.galary-area{
+	display:flex;
+	width:71%;
+	margin:auto;
+	padding:0px 0px 30px;
+}
+
+.galary-area h5 {
+    margin-top: 10px;
+	font-size:15px;
+}
+
+.galary-area p {
+    margin-top: 5px;
+	font-size: 13px;
+}
+
+.galary-area-2 h5 {
+    margin-top: 10px;
+	font-size:15px;
+}
+
+.galary-area-2 p {
+    margin-top: 5px;
+	font-size: 13px;
+    padding: 0px 0px 50px;
+}
+
+.galary-area .picture-area-1{
+	margin:0 10px;
+	color:#ffffff;
+}
+
+.galary-area .picture-area-2{
+	margin:0 10px;
+	color:#ffffff;
+}
+
+.galary-area .picture-area-3{
+	margin:0 10px;
+	color:#ffffff;
+}
+
+.galary-area-2{
+	display:flex;
+	width:71%;
+	margin:auto;
+}
+
+.galary-area-2 .picture-area-1{
+	margin:0 10px;
+	color:#ffffff;
+}
+
+.galary-area-2 .picture-area-2{
+	margin:0 10px;
+	color:#ffffff;
+}
+
+.galary-area-2 .picture-area-3{
+	margin:0 10px;
+	color:#ffffff;
+}
+
+.work-area button {
+    background-color: #7C77C9;
+    color: #ffffff;
+    padding: 10px 20px 10px;
+    border-radius: 5px;
+	border-color:#7C77C9;
+	margin-bottom:50px;
+}
+
+/*================================*/
+
+.photography-area{
+	background-image:url("../img/background.png");
+}
+
+.photography-area h2 {
+    font-size: 55px;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 50px 0px 30px;
+}
+
+.photography-area p {
+    font-size: 20px;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.All-picturs {
+    width: 70%;
+	margin: auto;
+}
+
+.All-picturs img{
+	padding:6px;
+}
+
+.photoblog-area{
+	text-align:center;
+	margin-top:40px;
+}
+
+.photoblog-area button {
+    background-color: #7C77C9;
+    color: #ffffff;
+    padding: 10px 20px 10px;
+    border-radius: 5px;
+	border-color:#7C77C9;
+	margin-bottom:50px;
+}
+
+/*=========================*/
+
+.blog-area{
+	background-color:#24242E;
+	text-align:center;
+}
+
+.blog-area img{
+	margin-top:150px;
+	width:60px;
+	margin-bottom:40px;
+}
+
+.blog-area p{
+	color:#ffffff;
+	font-size:15px;
+	margin-bottom:50px;
+}
+
+input[type="email"] {
+    padding: 15px 30px;
+    border-radius: 5px;
+    font-size: 15px;
+	outline:none;
+	margin-bottom:150px;
+}
+
+input[type="submit"] {
+    padding: 16px 30px;
+    border-radius: 5px;
+    font-size: 13px;
+	background-color:#7C77C9;
+	color:white;
+	border:none;
+	margin-bottom:150px;
+}
+
+/*======================*/
+
+.footer-area{
+	background-image:url(../img/footerbg.png);
+	text-align:center;
+}
+
+.footer-area img {
+    width: 30px;
+    padding-right: 25px;
+    margin-top: 50px;
+	margin-bottom:70px;
+}
+
+.footer-area p {
+    margin-bottom: 10px;
+    color: #ddd;
+    font-size: 15px;
+}
+
+.footer-area{
+	padding-bottom:50px;
+}
